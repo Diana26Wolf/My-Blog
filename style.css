@@ -1,0 +1,66 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+#contact{
+    margin-top: 100px;
+}
+
+input {
+    background: grey
+}
+
+body {
+    background-color: #0b7512;
+}
+
+.travel1 {
+    border: 1px solid white;
+    padding: 10px;
+    float: none;
+}
+
+hr {
+    background-color: black;
+    height: 6px;
+    width: 10%
+}
+
+.T {
+    color: white;
+    font-weight: bold;
+    font-size: 20px
+}
+
+.H {
+    color: white;
+    font-weight: bold;
+}
+
+.movie_head {
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    border: 5px solid white;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text {
+    color:white;
+    padding-bottom: 50px;
+}
+.movie_text span{
+    color: white;
+}
